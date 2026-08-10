@@ -5,7 +5,7 @@
 
 [Manifest](github.com/NyxRom/android)
 -
-[Official-Devices](github.com/NyxRom-Devices)
+[Official-Devices](https://github.com/NyxRom-Devices)
 -
 [Nyx-OTA](https://github.com/nyxrom/NYX_OTA)
 - Telegram Supoort Channels
