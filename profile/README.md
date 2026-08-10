@@ -1,0 +1,18 @@
+# NyxRom
+- Based on Lineage OS
+- Made by the community and for the community.
+- Manifest, officially supported devices, and support below.
+
+[Manifest](github.com/NyxRom/android)
+[Official-Devices]()
+
+- Telegram Supoort Channels
+[Nyx Chat](https://t.me/nyxromchat)
+[Nyx Updates](https://t.me/nyxrom)
+
+
+- More About NyxRom
+The idea is for the user to have a lightweight, stable,
+and beautiful rom. With everything they might need for daily use.
+What we want is for you to feel so good that you won't want to use
+another rom.
