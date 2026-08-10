@@ -1,3 +1,4 @@
+![banner](img/150.png)
 # NyxRom
 - Based on Lineage OS
 - Made by the community and for the community.
