@@ -3,7 +3,7 @@
 - Made by the community and for the community.
 - Manifest, officially supported devices, and support below.
 
-[Manifest](github.com/NyxRom/android)
+[Manifest](https://github.com/nyxrom/android)
 -
 [Official-Devices](https://github.com/NyxRom-Devices)
 -
