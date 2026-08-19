@@ -1,6 +1,6 @@
 ![banner](img/150.png)
 # NyxRom
-- Based on Lineage OS
+- Based on Pixel OS
 - Made by the community and for the community.
 - Manifest, officially supported devices, and support below.
 
